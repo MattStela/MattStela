@@ -4,6 +4,9 @@ It's just a abreviation, you can call me Stela hehe
 - 🔭 I’m currently working on react and earning more about JS
 - 📫 thats's how you can reach me: +55 11 949683673
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{MattStela}/count.svg" alt="MattStela :: Visitor's Count" /></p>
+
 <div>
   <a href="https://github.com/MattStela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattStela&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>

@@ -1,7 +1,7 @@
 ### Hello, i'm Matts 👋.
 It's just a abreviation, you can call me Stela hehe
 
-- 🔭 I’m currently working on react and earning more about JS
+- 🔭 I’m currently working on react and learning more about JS
 - 📫 thats's how you can reach me: +55 11 949683673
 
 <h4 align="center">Visitor's count :eyes:</h4>

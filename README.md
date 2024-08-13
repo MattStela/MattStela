@@ -1,7 +1,6 @@
 ### Hello, i'm Matt 👋.
 
 - 🔭 I’m learning more about JS but today I can do everything imaginable with html and css
-- 📫 thats's how you can reach me: +55 11 949683673
 - try to ignore the mess on my profile, i'll clean it up
 
 <h4 align="center">Visitor's count :eyes:</h4>
